@@ -1,6 +1,5 @@
 # setHead
-Simple vanilla javascript function to set the page title, description and keywords.
-
+Simple vanilla javascript function to set the page title, description and keywords on the client-side.
 # How to:
 ES6
 ```
