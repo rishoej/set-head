@@ -1,13 +1,12 @@
 # setHead
 Simple vanilla javascript function to set the page title, description and keywords.
 
-# How to
+# How to in es6:
 ```
 import setHead from './setHead.js';
 setHead('My Title', 'My Description', 'My Keywords');
 ```
 Will turn into
-
 ```
 <head>
   <title>My Title</title>
