@@ -5,6 +5,7 @@ Simple vanilla javascript function to set the page title, description and keywor
 ES6
 ```
 import setHead from './setHead.js';
+
 setHead('My Title', 'My Description', 'My Keywords');
 ```
 Will turn into
